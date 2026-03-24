@@ -1,5 +1,5 @@
 name: bloc_getit_provider
-description: "A new Flutter package project."
+description: "A way to use Blocs and Cubits registered in GetIt with flutter_bloc's BlocProvider"
 version: 0.0.1
 homepage: https://github.com/thecodebrothers/bloc_getit_provider
 repository: https://github.com/thecodebrothers/bloc_getit_provider
