@@ -1,7 +1,8 @@
 name: bloc_getit_provider
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/thecodebrothers/bloc_getit_provider
+repository: https://github.com/thecodebrothers/bloc_getit_provider
 
 environment:
   sdk: ^3.10.7
